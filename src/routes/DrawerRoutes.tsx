@@ -4,7 +4,7 @@ import { createDrawerNavigator } from "@react-navigation/drawer";
 import { HomeScreen } from "../screens/HomeScreen";
 import { EntidadeScreen } from "../screens/EntidadeScreen";
 import { ContasPagarScreen } from "../screens/ContarPagarScreen";
-import { ContasReceberScreen } from "../screens/ContasReceberScreen";
+import { ContasReceberScreen } from "../screens/ConstasReceberScreen";
 
 const Drawer = createDrawerNavigator();
 
