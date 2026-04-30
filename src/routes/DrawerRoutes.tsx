@@ -15,8 +15,8 @@ import {
 
 import { Ionicons } from "@expo/vector-icons";
 
-import HomeScreen from "../screens/HomeScreen";
-import EntidadeScreen from "../screens/EntidadeScreen";
+import { HomeScreen } from "../screens/HomeScreen";
+import { EntidadeScreen } from "../screens/EntidadeScreen";
 import ContasReceberScreen from "../screens/ContasReceberScreen";
 import ContasPagarScreen from "../screens/ContasPagarScreen";
 

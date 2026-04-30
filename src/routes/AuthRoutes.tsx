@@ -1,7 +1,7 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
 import { LoginScreen } from "../screens/LoginScreen";
-import { RegisterScreen } from "../screens/RegisterScreen";
+import RegisterScreen from "../screens/RegisterScreen";
 import { AboutScreen } from "../screens/AboutScreen";
 
 
@@ -12,7 +12,7 @@ export default function AuthRoutes() {
         <Stack.Navigator>
             <Stack.Screen name="Login" component={LoginScreen} options={{ title: "" }} />
 
-            <Stack.Screen name="Register" component={RegisterScreen} options={{ title: "" }} />
+            <Stack.Screen name="Cadastro" component={RegisterScreen} options={{ title: "" }} />
 
             <Stack.Screen name="Sobre" component={AboutScreen} options={{ title: "" }} />
         </Stack.Navigator>

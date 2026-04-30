@@ -1,0 +1,12 @@
+yarn run v1.22.22
+$ expo start --clear --port 8082
+Starting project at C:\Users\Guilherme\Desktop\control\control
+Using src/app as the root directory for Expo Router.
+Starting Metro Bundler
+
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8082
+Logs for your project will appear below.
+Web .\index.ts ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web .\index.ts ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 77.4% (230/317)
+Web Bundled 6921ms index.ts (633 modules)

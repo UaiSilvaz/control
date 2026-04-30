@@ -1,9 +1,9 @@
 import { View, Text } from "react-native";
 
-export function ContasPagarScreen() {
+export default function ContasReceberScreen() {
     return (
         <View>
-            <Text>Contas a pagar</Text>
+            <Text>Contas a receber</Text>
         </View>
     );
 }

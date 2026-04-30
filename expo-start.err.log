@@ -1,0 +1,5 @@
+The following packages should be updated for best compatibility with the installed expo version:
+  expo@55.0.8 - expected version: ~55.0.18
+  expo-status-bar@55.0.4 - expected version: ~55.0.5
+  react-native@0.83.2 - expected version: 0.83.6
+Your project may not work correctly until you install the expected versions of the packages.
