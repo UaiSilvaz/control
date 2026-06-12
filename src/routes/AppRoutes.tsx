@@ -3,11 +3,7 @@ import DrawerRoutes from "./DrawerRoutes";
 
 
 export default function AppRoutes() {
-    const isAuthenticated = false; // Simulação de autenticação
+    const isAuthenticated = true; // Simulação de autenticação
 
     return isAuthenticated ? <DrawerRoutes /> : <AuthRoutes />;
 }
-
-// 
-
-TENHO QUE FAZER O COMMIT

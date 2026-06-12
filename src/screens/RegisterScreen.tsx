@@ -12,7 +12,7 @@ import {
 
 import * as ImagePicker from "expo-image-picker";
 
-export default function RegisterScreen({ navigation }: any) {
+export function RegisterScreen({ navigation }: any) {
 
     const [image, setImage] = useState<string | null>(null);
 
